@@ -4,11 +4,9 @@
   font-family: "Noto Sans KR", serif;
 }
 body {
-  /* background-color: black; */
+    background-color: black;
 }
-.pshcover {
-  background-color: black;
-}
+
 .main {
   width: 1200px;
   display: flex;
@@ -119,11 +117,11 @@ body {
 }
 
 .API-use {
-  display: flex;
-  flex-direction: column;
-  color: white;
-  padding-top: 10px;
-  border-top: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    color : white;
+    padding-top : 10px;
+    border-top : 2px solid white;
 }
 .champion-Data {
   text-align: center;
