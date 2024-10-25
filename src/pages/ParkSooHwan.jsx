@@ -166,7 +166,7 @@ export default function ParkSooHwan() {
         </div>
         <div className="API-use">
           API사용 사진 league-v4 / summoner-v4 / account-v1 /
-          champion-mastery-v4사용
+          champion-mastery-v4사용 / API 키 유효기간 1일이라 검색안됨
           <img src={api사용} alt="api사용" />
         </div>
       </div>
