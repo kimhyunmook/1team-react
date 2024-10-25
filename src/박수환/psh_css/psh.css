@@ -116,7 +116,7 @@
 .API-use {
     display: flex;
     flex-direction: column;
-    color : white;
+    color : black;
     padding-top : 10px;
     border-top : 2px solid white;
 }
