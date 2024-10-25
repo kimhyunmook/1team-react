@@ -3,9 +3,6 @@
 * {
   font-family: "Noto Sans KR", serif;
 }
-body {
-    background-color: black;
-}
 
 .main {
   width: 1200px;
@@ -16,6 +13,7 @@ body {
   gap: 20px;
   padding-top: 50px;
 }
+
 .introduce-container {
   width: 600px;
   padding: 20px;
@@ -119,7 +117,7 @@ body {
 .API-use {
     display: flex;
     flex-direction: column;
-    color : white;
+    color : black;
     padding-top : 10px;
     border-top : 2px solid white;
 }

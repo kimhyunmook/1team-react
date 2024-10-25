@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import HomePage from "./pages/home";
 import Khm from "./pages/khm/khm";
 import JeonJunGi from "./pages/JeonJunGi";
+import ParkSooHwan from "./pages/ParkSooHwan";
 
 function Main() {
   return (
@@ -11,6 +12,7 @@ function Main() {
         <Route path="/" element={<HomePage />} />
         <Route path="/khm" element={<Khm />} />
         <Route path="/jjg" element={<JeonJunGi />} />
+        <Route path="/psh" element={<ParkSooHwan />} />
       </Routes>
     </BrowserRouter>
   );
